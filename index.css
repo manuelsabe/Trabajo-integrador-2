@@ -452,3 +452,39 @@ footer .copyright{
     }
 
 }
+
+@media (max-width:972px){
+
+    #hero{
+        
+        height: 70vh;
+        padding: 0 80px;
+        background-position: top 30% right 30%;
+    
+    }
+
+}
+
+@media (max-width:620px){
+
+    #hero{
+        
+        height: 70vh;
+        padding: 0 80px;
+        background-position: top 30% right 35%;
+    
+    }
+
+}
+
+@media (max-width:490px){
+
+    #hero{
+        
+        height: 70vh;
+        padding: 0 80px;
+        background-position: top 30% right 40%;
+    
+    }
+
+}
